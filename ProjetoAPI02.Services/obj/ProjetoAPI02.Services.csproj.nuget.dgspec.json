@@ -1,0 +1,452 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Samsung\\Desktop\\COTI - Aulas\\2021 - C# WebDeveloper SQS Noite 01\\Aula 27 - 31.03.21\\ProjetoAPI02\\ProjetoAPI02.Services\\ProjetoAPI02.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Samsung\\Desktop\\COTI - Aulas\\2021 - C# WebDeveloper SQS Noite 01\\Aula 27 - 31.03.21\\ProjetoAPI02\\ProjetoAPI02.Cryptography\\ProjetoAPI02.Cryptography.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Samsung\\Desktop\\COTI - Aulas\\2021 - C# WebDeveloper SQS Noite 01\\Aula 27 - 31.03.21\\ProjetoAPI02\\ProjetoAPI02.Cryptography\\ProjetoAPI02.Cryptography.csproj",
+        "projectName": "ProjetoAPI02.Cryptography",
+        "projectPath": "C:\\Users\\Samsung\\Desktop\\COTI - Aulas\\2021 - C# WebDeveloper SQS Noite 01\\Aula 27 - 31.03.21\\ProjetoAPI02\\ProjetoAPI02.Cryptography\\ProjetoAPI02.Cryptography.csproj",
+        "packagesPath": "C:\\Users\\Samsung\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Samsung\\Desktop\\COTI - Aulas\\2021 - C# WebDeveloper SQS Noite 01\\Aula 27 - 31.03.21\\ProjetoAPI02\\ProjetoAPI02.Cryptography\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Samsung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Samsung\\Desktop\\COTI - Aulas\\2021 - C# WebDeveloper SQS Noite 01\\Aula 27 - 31.03.21\\ProjetoAPI02\\ProjetoAPI02.DomainServices\\ProjetoAPI02.DomainServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Samsung\\Desktop\\COTI - Aulas\\2021 - C# WebDeveloper SQS Noite 01\\Aula 27 - 31.03.21\\ProjetoAPI02\\ProjetoAPI02.DomainServices\\ProjetoAPI02.DomainServices.csproj",
+        "projectName": "ProjetoAPI02.DomainServices",
+        "projectPath": "C:\\Users\\Samsung\\Desktop\\COTI - Aulas\\2021 - C# WebDeveloper SQS Noite 01\\Aula 27 - 31.03.21\\ProjetoAPI02\\ProjetoAPI02.DomainServices\\ProjetoAPI02.DomainServices.csproj",
+        "packagesPath": "C:\\Users\\Samsung\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Samsung\\Desktop\\COTI - Aulas\\2021 - C# WebDeveloper SQS Noite 01\\Aula 27 - 31.03.21\\ProjetoAPI02\\ProjetoAPI02.DomainServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Samsung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Samsung\\Desktop\\COTI - Aulas\\2021 - C# WebDeveloper SQS Noite 01\\Aula 27 - 31.03.21\\ProjetoAPI02\\ProjetoAPI02.Cryptography\\ProjetoAPI02.Cryptography.csproj": {
+                "projectPath": "C:\\Users\\Samsung\\Desktop\\COTI - Aulas\\2021 - C# WebDeveloper SQS Noite 01\\Aula 27 - 31.03.21\\ProjetoAPI02\\ProjetoAPI02.Cryptography\\ProjetoAPI02.Cryptography.csproj"
+              },
+              "C:\\Users\\Samsung\\Desktop\\COTI - Aulas\\2021 - C# WebDeveloper SQS Noite 01\\Aula 27 - 31.03.21\\ProjetoAPI02\\ProjetoAPI02.Domain\\ProjetoAPI02.Domain.csproj": {
+                "projectPath": "C:\\Users\\Samsung\\Desktop\\COTI - Aulas\\2021 - C# WebDeveloper SQS Noite 01\\Aula 27 - 31.03.21\\ProjetoAPI02\\ProjetoAPI02.Domain\\ProjetoAPI02.Domain.csproj"
+              },
+              "C:\\Users\\Samsung\\Desktop\\COTI - Aulas\\2021 - C# WebDeveloper SQS Noite 01\\Aula 27 - 31.03.21\\ProjetoAPI02\\ProjetoAPI02.Repository\\ProjetoAPI02.Repository.csproj": {
+                "projectPath": "C:\\Users\\Samsung\\Desktop\\COTI - Aulas\\2021 - C# WebDeveloper SQS Noite 01\\Aula 27 - 31.03.21\\ProjetoAPI02\\ProjetoAPI02.Repository\\ProjetoAPI02.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Samsung\\Desktop\\COTI - Aulas\\2021 - C# WebDeveloper SQS Noite 01\\Aula 27 - 31.03.21\\ProjetoAPI02\\ProjetoAPI02.Domain\\ProjetoAPI02.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Samsung\\Desktop\\COTI - Aulas\\2021 - C# WebDeveloper SQS Noite 01\\Aula 27 - 31.03.21\\ProjetoAPI02\\ProjetoAPI02.Domain\\ProjetoAPI02.Domain.csproj",
+        "projectName": "ProjetoAPI02.Domain",
+        "projectPath": "C:\\Users\\Samsung\\Desktop\\COTI - Aulas\\2021 - C# WebDeveloper SQS Noite 01\\Aula 27 - 31.03.21\\ProjetoAPI02\\ProjetoAPI02.Domain\\ProjetoAPI02.Domain.csproj",
+        "packagesPath": "C:\\Users\\Samsung\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Samsung\\Desktop\\COTI - Aulas\\2021 - C# WebDeveloper SQS Noite 01\\Aula 27 - 31.03.21\\ProjetoAPI02\\ProjetoAPI02.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Samsung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Samsung\\Desktop\\COTI - Aulas\\2021 - C# WebDeveloper SQS Noite 01\\Aula 27 - 31.03.21\\ProjetoAPI02\\ProjetoAPI02.Repository\\ProjetoAPI02.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Samsung\\Desktop\\COTI - Aulas\\2021 - C# WebDeveloper SQS Noite 01\\Aula 27 - 31.03.21\\ProjetoAPI02\\ProjetoAPI02.Repository\\ProjetoAPI02.Repository.csproj",
+        "projectName": "ProjetoAPI02.Repository",
+        "projectPath": "C:\\Users\\Samsung\\Desktop\\COTI - Aulas\\2021 - C# WebDeveloper SQS Noite 01\\Aula 27 - 31.03.21\\ProjetoAPI02\\ProjetoAPI02.Repository\\ProjetoAPI02.Repository.csproj",
+        "packagesPath": "C:\\Users\\Samsung\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Samsung\\Desktop\\COTI - Aulas\\2021 - C# WebDeveloper SQS Noite 01\\Aula 27 - 31.03.21\\ProjetoAPI02\\ProjetoAPI02.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Samsung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Samsung\\Desktop\\COTI - Aulas\\2021 - C# WebDeveloper SQS Noite 01\\Aula 27 - 31.03.21\\ProjetoAPI02\\ProjetoAPI02.Domain\\ProjetoAPI02.Domain.csproj": {
+                "projectPath": "C:\\Users\\Samsung\\Desktop\\COTI - Aulas\\2021 - C# WebDeveloper SQS Noite 01\\Aula 27 - 31.03.21\\ProjetoAPI02\\ProjetoAPI02.Domain\\ProjetoAPI02.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.13, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Samsung\\Desktop\\COTI - Aulas\\2021 - C# WebDeveloper SQS Noite 01\\Aula 27 - 31.03.21\\ProjetoAPI02\\ProjetoAPI02.Security\\ProjetoAPI02.Security.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Samsung\\Desktop\\COTI - Aulas\\2021 - C# WebDeveloper SQS Noite 01\\Aula 27 - 31.03.21\\ProjetoAPI02\\ProjetoAPI02.Security\\ProjetoAPI02.Security.csproj",
+        "projectName": "ProjetoAPI02.Security",
+        "projectPath": "C:\\Users\\Samsung\\Desktop\\COTI - Aulas\\2021 - C# WebDeveloper SQS Noite 01\\Aula 27 - 31.03.21\\ProjetoAPI02\\ProjetoAPI02.Security\\ProjetoAPI02.Security.csproj",
+        "packagesPath": "C:\\Users\\Samsung\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Samsung\\Desktop\\COTI - Aulas\\2021 - C# WebDeveloper SQS Noite 01\\Aula 27 - 31.03.21\\ProjetoAPI02\\ProjetoAPI02.Security\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Samsung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Samsung\\Desktop\\COTI - Aulas\\2021 - C# WebDeveloper SQS Noite 01\\Aula 27 - 31.03.21\\ProjetoAPI02\\ProjetoAPI02.Services\\ProjetoAPI02.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Samsung\\Desktop\\COTI - Aulas\\2021 - C# WebDeveloper SQS Noite 01\\Aula 27 - 31.03.21\\ProjetoAPI02\\ProjetoAPI02.Services\\ProjetoAPI02.Services.csproj",
+        "projectName": "ProjetoAPI02.Services",
+        "projectPath": "C:\\Users\\Samsung\\Desktop\\COTI - Aulas\\2021 - C# WebDeveloper SQS Noite 01\\Aula 27 - 31.03.21\\ProjetoAPI02\\ProjetoAPI02.Services\\ProjetoAPI02.Services.csproj",
+        "packagesPath": "C:\\Users\\Samsung\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Samsung\\Desktop\\COTI - Aulas\\2021 - C# WebDeveloper SQS Noite 01\\Aula 27 - 31.03.21\\ProjetoAPI02\\ProjetoAPI02.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Samsung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Samsung\\Desktop\\COTI - Aulas\\2021 - C# WebDeveloper SQS Noite 01\\Aula 27 - 31.03.21\\ProjetoAPI02\\ProjetoAPI02.Cryptography\\ProjetoAPI02.Cryptography.csproj": {
+                "projectPath": "C:\\Users\\Samsung\\Desktop\\COTI - Aulas\\2021 - C# WebDeveloper SQS Noite 01\\Aula 27 - 31.03.21\\ProjetoAPI02\\ProjetoAPI02.Cryptography\\ProjetoAPI02.Cryptography.csproj"
+              },
+              "C:\\Users\\Samsung\\Desktop\\COTI - Aulas\\2021 - C# WebDeveloper SQS Noite 01\\Aula 27 - 31.03.21\\ProjetoAPI02\\ProjetoAPI02.DomainServices\\ProjetoAPI02.DomainServices.csproj": {
+                "projectPath": "C:\\Users\\Samsung\\Desktop\\COTI - Aulas\\2021 - C# WebDeveloper SQS Noite 01\\Aula 27 - 31.03.21\\ProjetoAPI02\\ProjetoAPI02.DomainServices\\ProjetoAPI02.DomainServices.csproj"
+              },
+              "C:\\Users\\Samsung\\Desktop\\COTI - Aulas\\2021 - C# WebDeveloper SQS Noite 01\\Aula 27 - 31.03.21\\ProjetoAPI02\\ProjetoAPI02.Domain\\ProjetoAPI02.Domain.csproj": {
+                "projectPath": "C:\\Users\\Samsung\\Desktop\\COTI - Aulas\\2021 - C# WebDeveloper SQS Noite 01\\Aula 27 - 31.03.21\\ProjetoAPI02\\ProjetoAPI02.Domain\\ProjetoAPI02.Domain.csproj"
+              },
+              "C:\\Users\\Samsung\\Desktop\\COTI - Aulas\\2021 - C# WebDeveloper SQS Noite 01\\Aula 27 - 31.03.21\\ProjetoAPI02\\ProjetoAPI02.Repository\\ProjetoAPI02.Repository.csproj": {
+                "projectPath": "C:\\Users\\Samsung\\Desktop\\COTI - Aulas\\2021 - C# WebDeveloper SQS Noite 01\\Aula 27 - 31.03.21\\ProjetoAPI02\\ProjetoAPI02.Repository\\ProjetoAPI02.Repository.csproj"
+              },
+              "C:\\Users\\Samsung\\Desktop\\COTI - Aulas\\2021 - C# WebDeveloper SQS Noite 01\\Aula 27 - 31.03.21\\ProjetoAPI02\\ProjetoAPI02.Security\\ProjetoAPI02.Security.csproj": {
+                "projectPath": "C:\\Users\\Samsung\\Desktop\\COTI - Aulas\\2021 - C# WebDeveloper SQS Noite 01\\Aula 27 - 31.03.21\\ProjetoAPI02\\ProjetoAPI02.Security\\ProjetoAPI02.Security.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

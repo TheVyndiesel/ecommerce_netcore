@@ -1,0 +1,629 @@
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Services.exe
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Services.deps.json
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Services.runtimeconfig.json
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Services.runtimeconfig.dev.json
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Services.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Services.pdb
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoAPI02.Services.StaticWebAssets.Manifest.cache
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoAPI02.Services.StaticWebAssets.xml
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProjetoAPI02.Services.styles.css
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.RazorTargetAssemblyInfo.cache
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.csproj.CopyComplete
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.pdb
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.genruntimeconfig.cache
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.csprojAssemblyReference.cache
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Domain.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Repository.dll
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Domain.pdb
+C:\Users\Samsung\Desktop\eCommerce\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Repository.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Services.exe
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Services.deps.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Services.runtimeconfig.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Services.runtimeconfig.dev.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Services.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Services.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Domain.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Repository.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Domain.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Repository.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.csprojAssemblyReference.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoAPI02.Services.StaticWebAssets.Manifest.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoAPI02.Services.StaticWebAssets.xml
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProjetoAPI02.Services.styles.css
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.RazorTargetAssemblyInfo.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.csproj.CopyComplete
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 21 - 17.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.genruntimeconfig.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Services.exe
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Services.deps.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Services.runtimeconfig.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Services.runtimeconfig.dev.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Services.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Services.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Domain.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Repository.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Domain.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Repository.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.csprojAssemblyReference.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoAPI02.Services.StaticWebAssets.Manifest.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoAPI02.Services.StaticWebAssets.xml
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProjetoAPI02.Services.styles.css
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.RazorTargetAssemblyInfo.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.csproj.CopyComplete
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.genruntimeconfig.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.DomainServices.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 22 - 19.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.DomainServices.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Services.exe
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Services.deps.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Services.runtimeconfig.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Services.runtimeconfig.dev.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Services.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Services.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Domain.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.DomainServices.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Repository.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.DomainServices.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Domain.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Repository.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.csprojAssemblyReference.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoAPI02.Services.StaticWebAssets.Manifest.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoAPI02.Services.StaticWebAssets.xml
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProjetoAPI02.Services.styles.css
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.RazorTargetAssemblyInfo.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.csproj.CopyComplete
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.genruntimeconfig.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Cryptography.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Cryptography.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Security.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 23 - 22.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Security.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Services.exe
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Services.deps.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Services.runtimeconfig.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Services.runtimeconfig.dev.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Services.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Services.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Cryptography.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Domain.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.DomainServices.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Repository.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Security.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Cryptography.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.DomainServices.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Domain.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Repository.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Security.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.csprojAssemblyReference.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoAPI02.Services.StaticWebAssets.Manifest.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoAPI02.Services.StaticWebAssets.xml
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProjetoAPI02.Services.styles.css
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.RazorTargetAssemblyInfo.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.csproj.CopyComplete
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 24 - 24.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.genruntimeconfig.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Services.exe
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Services.deps.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Services.runtimeconfig.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Services.runtimeconfig.dev.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Services.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Services.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Cryptography.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Domain.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.DomainServices.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Repository.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Security.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Cryptography.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.DomainServices.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Domain.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Repository.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Security.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.csprojAssemblyReference.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoAPI02.Services.StaticWebAssets.Manifest.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoAPI02.Services.StaticWebAssets.xml
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProjetoAPI02.Services.styles.css
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.RazorTargetAssemblyInfo.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.csproj.CopyComplete
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 25 - 26.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.genruntimeconfig.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Services.exe
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Services.deps.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Services.runtimeconfig.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Services.runtimeconfig.dev.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Services.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Services.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Cryptography.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Domain.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.DomainServices.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Repository.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Security.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Cryptography.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.DomainServices.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Domain.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Repository.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Security.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.csprojAssemblyReference.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoAPI02.Services.StaticWebAssets.Manifest.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoAPI02.Services.StaticWebAssets.xml
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProjetoAPI02.Services.styles.css
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.RazorTargetAssemblyInfo.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.csproj.CopyComplete
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 26 - 29.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.genruntimeconfig.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Services.exe
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Services.deps.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Services.runtimeconfig.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Services.runtimeconfig.dev.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Services.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Services.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Cryptography.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Domain.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.DomainServices.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Repository.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Security.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Cryptography.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.DomainServices.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Domain.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Repository.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\bin\Debug\netcoreapp3.1\ProjetoAPI02.Security.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.csprojAssemblyReference.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoAPI02.Services.StaticWebAssets.Manifest.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoAPI02.Services.StaticWebAssets.xml
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProjetoAPI02.Services.styles.css
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.RazorTargetAssemblyInfo.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.csproj.CopyComplete
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 27 - 31.03.21\ProjetoAPI02\ProjetoAPI02.Services\obj\Debug\netcoreapp3.1\ProjetoAPI02.Services.genruntimeconfig.cache
