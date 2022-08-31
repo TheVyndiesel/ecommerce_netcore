@@ -10,7 +10,9 @@ namespace ProjetoAPI02.Repository.Interfaces
         void Insert(T obj);
         void Update(T obj);
         void Delete(T obj);
-
+        
+        
+     
         List<T> GetAll();
         T GetById(Guid id);
     }
